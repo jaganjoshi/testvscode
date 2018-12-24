@@ -1,6 +1,6 @@
 <template>
   <div>
-
+<!--Test comment added -->
     <!--Stats cards-->
     <div class="row">
       <div class="col-lg-3 col-sm-6">
